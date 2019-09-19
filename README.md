@@ -1,0 +1,1 @@
+# django-tinymce4-lite
